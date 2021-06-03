@@ -1,0 +1,551 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@100&family=Nixie+One&display=swap');
+
+body {
+    margin: 0;
+    padding:0;
+    
+}
+
+
+#logo {
+    background-repeat: no-repeat;
+    height: 225px;
+    margin-left: 50px;
+    border:5px; 
+}
+
+
+#logotitle
+{
+    text-align: center;
+    font-size:40px;
+    color:black;
+    font-weight:bold;
+    text-shadow:1px 1.5px grey;
+    height: 1px;
+}
+
+
+#navigation{
+
+    background: url(japanwallpaperlogo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30px;
+    margin-top: 5px;
+}
+
+
+.Filterbar{
+    float:left;
+    margin-left: 320px;
+}
+
+
+.Filterbar_Container_Link{
+    margin-left: 20px;
+    font-family: 'El Messiri', sans-serif;
+    text-decoration: none;
+}
+
+
+#Dot > img{
+    height: 140px;
+    width: 140px;
+    margin-left: 665px;
+    margin-top: 25px;
+    float:left;
+}
+
+
+#body{
+    background: url(blomma1.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+
+#foot{
+    background-color: darkgrey;
+    height: 120px;
+    margin:0;
+}
+
+
+.Filterbar_Container{
+    background: url(japanwallpaperlogo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+}
+
+
+#About{
+    font-size: 30px;
+    float:left;
+    text-shadow:1px 1.5px grey;
+}
+
+
+#Culture{
+    font-size: 30px;
+    margin-left: 40px;
+    text-shadow:1px 1.5px grey;
+    float:left;
+}
+
+#box0{
+    margin-bottom:100px;
+    margin-left:300px;
+}
+
+
+#box1{
+
+    margin:1%;
+    width:20%;
+    height: 50vh;
+    margin-left:200px;
+    margin-top:-400px;
+}
+
+
+#box2{
+
+    margin:1%;
+    width:20%;
+    margin-left:980px;
+    margin-top: -420px;
+    height: 50vh;
+    float:left;
+}
+
+
+#box3{
+    margin-left: 280px;
+    margin-bottom: 50px;
+    margin-top:100px;
+    width:20%;
+    height: 50vh;
+    
+}
+
+
+#textCULT1{
+    font-size:20px;
+    letter-spacing: 1px; 
+    width:500px;
+}
+
+
+#textCULT2{
+    font-size:20px;
+    letter-spacing: 1px;
+    width:500px;
+    margin-left:-750px;
+    margin-top:500px;
+}
+
+
+#TXTCULT{
+    font-size:20px;
+    letter-spacing: 1px;
+    width:500px;
+    margin-top:150px;
+}
+
+
+#imageCULT1{
+    margin-left:800px;
+    margin-top: 100px;
+    background-size:20px 10px;
+}
+
+
+#imageCULT2{
+    margin-left:600px;
+    margin-top: -450px;
+    background-size:10px 10px;
+}
+
+
+#imageCULT3{
+    margin-left:-10px;
+    margin-top: -100px;
+    background-size:20px 10px;
+}
+
+#Anime{
+    background-size:10px 15px;
+    margin-top: 70px;
+    margin-left:750px;
+    height:55vh;
+    width: 600px;
+}
+
+
+#Animevid1{
+    position: relative;
+    left: -570px;
+    bottom: 200px;
+}
+
+#introductiontxt{
+    margin-top: 100px;
+    width:850px;
+    font-size:25px;
+    letter-spacing: 1px;
+}
+
+#txtyoutube{
+    font-size:20px;
+    letter-spacing:1px;
+    margin-left: 800px;
+    margin-top: 400px;
+    width:500px;
+
+}
+
+
+#YOUTUBECULT{
+    margin-top: -200px;
+    margin-left: 250px;
+}
+
+#ytvideo1{
+    margin-top: 100px;
+    margin-left: 850px;
+}
+
+
+#Tradition{
+    font-size: 30px;
+    float:left;
+    margin-left: 300px;
+    text-shadow:1px 1.5px grey;
+
+
+}
+
+
+#Sights{
+    font-size: 30px;
+    float:left;
+    margin-left: 40px;
+    text-shadow:1px 1.5px grey;
+
+}
+
+
+#boxzero{
+    margin-bottom:100px;
+    margin-left:300px;
+}
+
+
+#boxuno{
+
+    margin:1%;
+    width:20%;
+    height: 50vh;
+    margin-left:200px;
+    margin-top:-400px;
+
+}
+
+
+#boxdos{
+
+    margin:1%;
+    width:20%;
+    margin-left:980px;
+    margin-top: -420px;
+    height: 50vh;
+    float:left;
+    
+}
+
+
+#boxtres{
+    margin-left: 280px;
+    margin-bottom: 50px;
+    margin-top:100px;
+    width:20%;
+    height: 50vh;
+    padding-bottom:650px;
+}
+
+
+#boxcuro{
+    width:850px;
+    font-size:25px;
+    letter-spacing: 1px;
+    margin-left:400px;
+    padding-bottom:100px;
+    margin-top: -400px;
+}
+
+
+h2{
+    font-family: 'Fredericka the Great';
+    font-size: 30px;
+    margin-left:10px;
+}
+
+
+h3{
+    font-family:'Alegreya Sans SC';
+    font-size:12px;
+    margin: 0cm;
+}
+
+
+#footpara{
+    font-family:'Nixie One';
+    font-size:14px;
+}
+
+
+#footpara2{
+    font-family:'Nixie One';
+    font-size: 14px;
+    margin-left:250px;
+    margin-top: -90px;
+}
+
+
+#text1{
+    font-size:20px;
+    letter-spacing: 1px; 
+    width:500px;
+}
+
+
+#text2{
+    font-size:20px;
+    letter-spacing: 1px;
+    width:500px;
+    margin-left:-130px;
+}
+
+
+#text3{
+    font-size:20px;
+    letter-spacing: 1px;
+    width:500px;
+    margin-left: -100px;
+    
+}
+
+
+#txtrandom{
+    font-size:20px;
+    letter-spacing: 1px;
+    width:500px;
+    margin-top:150px;
+}
+
+
+#img1{
+    margin-left:800px;
+    margin-top: 100px;
+    background-size:20px 10px;
+}
+
+
+#img2{
+    margin-left:200px;
+    margin-top: 100px;
+    background-size:10px 10px;
+
+}
+
+
+#img3{
+    margin-left:100px;
+    margin-top: 100px;
+    background-size:20px 10px;
+    
+}
+
+
+#extraimg{
+    background-size:10px 15px;
+    margin-top: 350px;
+    margin-left:-100px;
+}
+
+
+#ytvideo1{
+    margin-top: 80px;
+    margin-left: 850px;
+}
+
+#Animevid1{
+    position: relative;
+    left: -570px;
+    bottom: 200px;
+}
+
+
+#introtxt{
+    margin-top: 100px;
+    width:850px;
+    font-size:25px;
+    letter-spacing: 1px;
+}
+
+
+#bodytradition{
+display: flex;
+background-size: cover;
+background: url(paintinTradition.jpg) no-repeat center center fixed;
+background-size: 1200px 755px;
+background-repeat: no-repeat;
+}
+
+
+#bodyculture{
+    background-size:cover;
+    background:url(paintinTradition.jpg) no-repeat center center fixed;
+    background-size:1200px 755px;
+    background-repeat: no-repeat;
+}
+
+
+#bodygif{
+    background-color: red;
+    float:left;
+}
+
+
+#bodysights{
+background-size:cover;
+}
+
+
+#bodyabout{
+    background-size:cover;
+    background:url(paintinTradition.jpg) no-repeat center center fixed;
+    background-size:1200px 755px;
+    background-repeat: no-repeat;
+    padding:200px;
+
+}
+
+#titleabout{
+    margin-left: 120px;
+}
+
+#about_txt{
+    font-size: 20px;
+    width:850px;
+    letter-spacing: 1px;
+    margin-left: 120px;
+    margin-top:10px;
+    text-align: center;
+}
+
+
+#himeji{
+width:50%;
+text-align:center;
+margin-left:25%;
+margin-bottom:5%;
+background-image:url(scroll.jpg);
+border:3px solid black;
+}
+
+
+#fuji{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%;
+    background-image:url(scroll.jpg);
+    border:2px solid black;
+}
+
+
+#zao
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%;   
+    background-image:url(scroll.jpg);
+    border:2px solid black;
+}
+
+
+#tokyo
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%; 
+    background-image:url(scroll.jpg); 
+    border:2px solid black; 
+}
+
+
+#kyoto
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%; 
+    background-image:url(scroll.jpg);  
+    border:2px solid black;
+}
+
+
+#endsights
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%; 
+    background-image:url(scroll.jpg);
+    border:2px solid black;
+}
+
+
+#traditionpic{
+    border:2px solid white;
+    background-color: lightpink;
+    width:230px;
+    height: 30vh;
+    float:center;
+    background: url(traditionpict.jpg);
+    border-radius: 50%;
+}
+
+
+#culturepic{
+    border:2px solid white;
+    background-color: lightpink;
+    margin-left: 1px;
+    margin-top: 40px;
+    width:230px;
+    height: 30vh;
+    float:left;
+    background: url(traditionpict.jpg);
+    border-radius: 50%;
+}
+
+
+#sightspic{
+    border:2px solid white;
+    background-color: lightpink;
+    width:230px;
+    height: 30vh;
+    margin-right: 10px;
+    margin-top: 40px;
+    float:left;
+    background: url(traditionpict.jpg);
+    border-radius: 50%;
+}
